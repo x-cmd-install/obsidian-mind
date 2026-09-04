@@ -1,0 +1,57 @@
+about:
+  description: A self-organizing Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
+  license: MIT
+  homepage: 
+  head: af615d1
+  archived: false
+  latestVersion: v8.4.0
+  collectedAt: 2026-09-04T05:07:18Z
+timeline:
+  created: 2026-02-28
+  lastCommit: 2026-09-02
+  lastRelease: 2026-09-02
+popularity:
+  star: 4597
+  watcher: 13
+  fork: 530
+  release: 27
+  contributor: 9
+  pullRequest: 8
+  issue: 110
+language:
+  TypeScript: 1222832
+  JavaScript: 12198
+totalLine: 1235030
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 5
+    mergedPR: 25
+    openPR: 0
+    closedIssue: 18
+    openIssue: 3
+    commit: 31
+  last90d:
+    since: 2026-06-06
+    release: 14
+    mergedPR: 73
+    openPR: 0
+    closedIssue: 60
+    openIssue: 3
+    commit: 90
+  last180d:
+    since: 2026-03-08
+    release: 27
+    mergedPR: 113
+    openPR: 0
+    closedIssue: 105
+    openIssue: 5
+    commit: 195
+  last360d:
+    since: 2025-09-09
+    release: 27
+    mergedPR: 113
+    openPR: 0
+    closedIssue: 105
+    openIssue: 5
+    commit: 201
