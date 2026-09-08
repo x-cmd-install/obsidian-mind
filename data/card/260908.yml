@@ -5,13 +5,13 @@ about:
   head: af615d1
   archived: false
   latestVersion: "v8.4.0"
-  collectedAt: 2026-09-08T03:09:22Z
+  collectedAt: 2026-09-08T05:53:16Z
 timeline:
   created: 2026-02-28
   lastCommit: 2026-09-02
   lastRelease: 2026-09-02
 popularity:
-  star: 4613
+  star: 4615
   watcher: 13
   fork: 531
   release: 27
@@ -80,7 +80,7 @@ total:
   commit: 207
 ---
 path: /home/runner/.x-repo/github.com/breferrari/obsidian-mind
-collectedAt: 2026-09-08T03:09:22Z
+collectedAt: 2026-09-08T05:53:17Z
 loc:
   TypeScript:
     code: 20286
