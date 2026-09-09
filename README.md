@@ -7,7 +7,7 @@ A self-organizing Obsidian vault that gives AI coding agents persistent memory. 
 - **Latest release**: `v8.4.0` (2026-09-02)
 - **Last commit**: 2026-09-02
 - **License**: MIT
-- **Stars**: 4619 · **Forks**: 531 · **Open issues**: 110 · **Contributors**: 9
+- **Stars**: 4620 · **Forks**: 530 · **Open issues**: 111 · **Contributors**: 9
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/obsidian-mind> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:06:54Z._
+_Last regenerated: 2026-09-09T20:28:02Z._
