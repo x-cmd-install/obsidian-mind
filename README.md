@@ -4,7 +4,7 @@
 
 A self-organizing Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
 
-![obsidian-mind](https://repo.x-cmd.io/obsidian-mind.svg)
+[![x-cmd/install — obsidian-mind Code Quality Monitoring Repo Card](https://repo.x-cmd.io/obsidian-mind.svg)](https://x-cmd.com/install/obsidian-mind)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **20,804** lines of code across **192** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,647 · **Forks**: 533 · **Open issues**: 111 · **Contributors**: 9
+- **Stars**: 4,653 · **Forks**: 532 · **Open issues**: 111 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **20,804** lines of code across **192** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 5 | 1 | 6 | 4 | 8 |
-| last60d | 2026-07-20 | 13 | 52 | 1 | 47 | 4 | 68 |
-| 90d | 2026-06-20 | 14 | 73 | 1 | 60 | 4 | 90 |
-| last180d | 2026-03-22 | 27 | 113 | 1 | 105 | 6 | 195 |
-| 360d | 2025-09-23 | 27 | 113 | 1 | 105 | 6 | 201 |
-| last720d | 2024-09-28 | 27 | 113 | 1 | 105 | 6 | 207 |
+| 30d | 2026-08-21 | 2 | 4 | 1 | 5 | 4 | 2 |
+| last60d | 2026-07-22 | 13 | 52 | 1 | 47 | 4 | 53 |
+| 90d | 2026-06-22 | 14 | 73 | 1 | 60 | 4 | 90 |
+| last180d | 2026-03-24 | 27 | 113 | 1 | 105 | 6 | 173 |
+| 360d | 2025-09-25 | 27 | 113 | 1 | 105 | 6 | 201 |
+| last720d | 2024-09-30 | 27 | 113 | 1 | 105 | 6 | 207 |
 
 ## Release assets
 
@@ -68,4 +68,4 @@ Install metadata for obsidian-mind lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:27:26Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:15:06Z._

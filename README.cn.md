@@ -4,7 +4,7 @@
 
 A self-organizing Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
 
-![obsidian-mind](https://repo.x-cmd.io/obsidian-mind.svg?lang=zh)
+[![x-cmd/install — obsidian-mind Code Quality Monitoring Repo Card](https://repo.x-cmd.io/obsidian-mind.svg?lang=zh)](https://x-cmd.com/install/obsidian-mind)
 
 ## 安装
 
@@ -36,7 +36,7 @@ x install obsidian-mind
 
 ## 流行度
 
-- **Star**: 4,647 · **Fork**: 533 · **开放 issue**: 111 · **贡献者**: 9
+- **Star**: 4,653 · **Fork**: 532 · **开放 issue**: 111 · **贡献者**: 9
 
 ## 累计统计
 
@@ -46,12 +46,12 @@ x install obsidian-mind
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 5 | 1 | 6 | 4 | 8 |
-| last60d | 2026-07-20 | 13 | 52 | 1 | 47 | 4 | 68 |
-| 90d | 2026-06-20 | 14 | 73 | 1 | 60 | 4 | 90 |
-| last180d | 2026-03-22 | 27 | 113 | 1 | 105 | 6 | 195 |
-| 360d | 2025-09-23 | 27 | 113 | 1 | 105 | 6 | 201 |
-| last720d | 2024-09-28 | 27 | 113 | 1 | 105 | 6 | 207 |
+| 30d | 2026-08-21 | 2 | 4 | 1 | 5 | 4 | 2 |
+| last60d | 2026-07-22 | 13 | 52 | 1 | 47 | 4 | 53 |
+| 90d | 2026-06-22 | 14 | 73 | 1 | 60 | 4 | 90 |
+| last180d | 2026-03-24 | 27 | 113 | 1 | 105 | 6 | 173 |
+| 360d | 2025-09-25 | 27 | 113 | 1 | 105 | 6 | 201 |
+| last720d | 2024-09-30 | 27 | 113 | 1 | 105 | 6 | 207 |
 
 ## Release 资产
 
@@ -68,4 +68,4 @@ obsidian-mind 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:27:26Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:15:07Z._
