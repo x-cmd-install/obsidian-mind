@@ -78,13 +78,13 @@
   "body": "## Quick Start\n\n**Requirements:** [Obsidian](https://obsidian.md), [Node 22+ LTS](https://nodejs.org), and one of: [Claude Code](https://claude.ai/code) · [Codex CLI](https://github.com/openai/codex) · [Gemini CLI](https://github.com/google-gemini/gemini-cli)\n\n**Install via [ShardMind](https://github.com/breferrari/shardmind) (recommended — wizard, optional modules, managed upgrades):**\n\n```bash\nnpm install -g shardmind\nmkdir my-vault && cd my-vault\nshardmind install github:breferrari/obsidian-mind\n```\n\n**Or clone directly:**\n\n```bash\ngit clone https://github.com/breferrari/obsidian-mind.git\ncd obsidian-mind\nnpm install -g @tobilu/qmd && qmd index && qmd embed   # optional: semantic search\n```\n\nOpen the folder as an Obsidian vault, then run `claude`, `codex`, or `gemini` in the directory and type `/om-standup` (or `om-standup` in Codex).\n\nOr download the vault zip below and extract it into your Obsidian vaults folder.\n\n**Already using obsidian-mind?** Just tell your agent: `Update this vault to the latest obsidian-mind from https://github.com/breferrari/obsidian-mind`\n\n## v8.4.0 — 2026-09-02\n\n### Fixed\n- the qmd search path was paying for a duplicate vector search and inheriting the wrong embedder\n- the markup refusal's recovery is a different shape, not the one that folded\n",
   "reactions": {
     "url": "https://api.github.com/repos/breferrari/obsidian-mind/releases/381287103/reactions",
-    "total_count": 1,
+    "total_count": 2,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 1,
+    "heart": 2,
     "rocket": 0,
     "eyes": 0
   }
