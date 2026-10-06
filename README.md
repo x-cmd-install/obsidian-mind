@@ -14,14 +14,14 @@ x install obsidian-mind
 
 ## Code insight
 
-Total: **23,739** lines of code across **213** files in the top 5 languages.
+Total: **26,599** lines of code across **226** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 23,197 | 8,992 | 2,978 | 131 |
-| Json | 363 | 0 | 0 | 6 |
-| JavaScript | 179 | 151 | 29 | 2 |
-| Markdown | 0 | 7,075 | 2,898 | 74 |
+| TypeScript | 26,023 | 9,464 | 3,222 | 144 |
+| Json | 371 | 0 | 0 | 6 |
+| JavaScript | 205 | 171 | 33 | 2 |
+| Markdown | 0 | 7,139 | 2,919 | 74 |
 
 ## Source
 
@@ -30,34 +30,34 @@ Total: **23,739** lines of code across **213** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v9.0.0` (2026-10-03)
-- **Last commit**: 2026-10-03
+- **Latest**: `v9.1.0` (2026-10-06)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 4,894 · **Forks**: 551 · **Open issues**: 124 · **Contributors**: 9
+- **Stars**: 4,902 · **Forks**: 551 · **Open issues**: 139 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 127 · **Open PRs**: 0 · **Closed issues**: 116 · **Open issues**: 8 · **Commits**: 224
+- **Releases**: 32 · **Merged PRs**: 149 · **Open PRs**: 0 · **Closed issues**: 137 · **Open issues**: 2 · **Commits**: 248
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 3 | 14 | 0 | 10 | 4 | 17 |
-| last60d | 2026-08-06 | 8 | 39 | 0 | 29 | 6 | 48 |
-| 90d | 2026-07-07 | 17 | 87 | 0 | 71 | 6 | 107 |
-| last180d | 2026-04-08 | 26 | 113 | 0 | 110 | 8 | 137 |
-| 360d | 2025-10-10 | 30 | 127 | 0 | 116 | 8 | 218 |
-| last720d | 2024-10-15 | 30 | 127 | 0 | 116 | 8 | 224 |
+| 30d | 2026-09-06 | 5 | 36 | 0 | 28 | 1 | 41 |
+| last60d | 2026-08-07 | 10 | 61 | 0 | 49 | 1 | 72 |
+| 90d | 2026-07-08 | 19 | 109 | 0 | 91 | 1 | 131 |
+| last180d | 2026-04-09 | 27 | 131 | 0 | 124 | 2 | 161 |
+| 360d | 2025-10-11 | 32 | 149 | 0 | 137 | 2 | 242 |
+| last720d | 2024-10-16 | 32 | 149 | 0 | 137 | 2 | 248 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [obsidian-mind-v9.0.0.zip](https://github.com/breferrari/obsidian-mind/releases/download/v9.0.0/obsidian-mind-v9.0.0.zip) | 4.6 MiB | `other` |
+| [obsidian-mind-v9.1.0.zip](https://github.com/breferrari/obsidian-mind/releases/download/v9.1.0/obsidian-mind-v9.1.0.zip) | 4.7 MiB | `other` |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for obsidian-mind lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:39:10Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:29:21Z._
