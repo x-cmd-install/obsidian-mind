@@ -14,11 +14,11 @@ x install obsidian-mind
 
 ## Code insight
 
-Total: **26,630** lines of code across **226** files in the top 5 languages.
+Total: **26,665** lines of code across **226** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 26,054 | 9,464 | 3,222 | 144 |
+| TypeScript | 26,089 | 9,472 | 3,224 | 144 |
 | Json | 371 | 0 | 0 | 6 |
 | JavaScript | 205 | 171 | 33 | 2 |
 | Markdown | 0 | 7,139 | 2,919 | 74 |
@@ -31,27 +31,27 @@ Total: **26,630** lines of code across **226** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v9.1.0` (2026-10-06)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-11
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 5,103 · **Forks**: 576 · **Open issues**: 145 · **Contributors**: 9
+- **Stars**: 5,216 · **Forks**: 590 · **Open issues**: 149 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 150 · **Open PRs**: 2 · **Closed issues**: 138 · **Open issues**: 7 · **Commits**: 249
+- **Releases**: 32 · **Merged PRs**: 152 · **Open PRs**: 1 · **Closed issues**: 140 · **Open issues**: 9 · **Commits**: 251
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 5 | 36 | 2 | 28 | 6 | 42 |
-| last60d | 2026-08-12 | 10 | 62 | 2 | 50 | 6 | 73 |
-| 90d | 2026-07-13 | 19 | 110 | 2 | 92 | 6 | 132 |
-| last180d | 2026-04-14 | 25 | 132 | 2 | 123 | 7 | 162 |
-| 360d | 2025-10-16 | 32 | 150 | 2 | 138 | 7 | 243 |
-| last720d | 2024-10-21 | 32 | 150 | 2 | 138 | 7 | 249 |
+| 30d | 2026-09-12 | 5 | 38 | 1 | 30 | 8 | 44 |
+| last60d | 2026-08-13 | 10 | 64 | 1 | 52 | 8 | 52 |
+| 90d | 2026-07-14 | 19 | 112 | 1 | 94 | 8 | 112 |
+| last180d | 2026-04-15 | 25 | 134 | 1 | 124 | 9 | 152 |
+| 360d | 2025-10-17 | 32 | 152 | 1 | 140 | 9 | 245 |
+| last720d | 2024-10-22 | 32 | 152 | 1 | 140 | 9 | 251 |
 
 ## Release assets
 
@@ -68,4 +68,4 @@ Install metadata for obsidian-mind lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:45:58Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:06:20Z._
