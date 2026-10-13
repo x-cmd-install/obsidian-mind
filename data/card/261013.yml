@@ -1,0 +1,116 @@
+about:
+  description: "A self-organizing Obsidian vault that gives AI coding agents persistent memory."
+  license: MIT
+  homepage: 
+  head: 15662b1
+  archived: false
+  latestVersion: "v10.0.0"
+  latestRelease: "v10.0.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-13T07:56:54Z
+timeline:
+  created: 2026-02-28
+  lastCommit: 2026-10-13
+  lastVersion: 2026-10-12
+  lastRelease: 2026-10-12
+  lastPrerelease: 
+popularity:
+  star: 5275
+  watcher: 17
+  fork: 598
+  release: 33
+  contributor: 11
+  pullRequest: 178
+  issue: 168
+language:
+  TypeScript: 1687136
+  JavaScript: 14775
+totalBytes: 1701911
+recent:
+  last30d:
+    since: 2026-09-13
+    release: 6
+    mergedPR: 49
+    openPR: 6
+    closedIssue: 40
+    openIssue: 17
+    commit: 56
+  last60d:
+    since: 2026-08-14
+    release: 11
+    mergedPR: 75
+    openPR: 6
+    closedIssue: 62
+    openIssue: 17
+    commit: 64
+  last90d:
+    since: 2026-07-15
+    release: 20
+    mergedPR: 123
+    openPR: 6
+    closedIssue: 104
+    openIssue: 17
+    commit: 124
+  last180d:
+    since: 2026-04-16
+    release: 26
+    mergedPR: 144
+    openPR: 6
+    closedIssue: 133
+    openIssue: 18
+    commit: 164
+  last360d:
+    since: 2025-10-18
+    release: 33
+    mergedPR: 163
+    openPR: 6
+    closedIssue: 150
+    openIssue: 18
+    commit: 257
+  last720d:
+    since: 2024-10-23
+    release: 33
+    mergedPR: 163
+    openPR: 6
+    closedIssue: 150
+    openIssue: 18
+    commit: 263
+total:
+  release: 33
+  mergedPR: 163
+  openPR: 6
+  closedIssue: 150
+  openIssue: 18
+  commit: 263
+---
+path: /home/runner/.x-repo/github.com/breferrari/obsidian-mind
+collectedAt: 2026-10-13T07:56:57Z
+loc:
+  TypeScript:
+    code: 27545
+    comments: 9946
+    blanks: 3397
+    files: 149
+  Json:
+    code: 379
+    comments: 0
+    blanks: 0
+    files: 6
+  JavaScript:
+    code: 205
+    comments: 171
+    blanks: 33
+    files: 2
+  Markdown:
+    code: 0
+    comments: 7191
+    blanks: 2943
+    files: 82
+total:
+  code: 29242
+  comments: 17546
+  blanks: 6450
+  files: 239
+---
+
+---
