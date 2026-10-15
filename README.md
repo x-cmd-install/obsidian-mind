@@ -18,7 +18,7 @@ Total: **30,521** lines of code across **252** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 29,813 | 10,493 | 3,640 | 162 |
+| TypeScript | 29,813 | 10,496 | 3,640 | 162 |
 | Json | 379 | 0 | 0 | 6 |
 | JavaScript | 329 | 185 | 29 | 2 |
 | Markdown | 0 | 7,198 | 2,946 | 82 |
@@ -36,22 +36,22 @@ Total: **30,521** lines of code across **252** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,303 · **Forks**: 603 · **Open issues**: 184 · **Contributors**: 12
+- **Stars**: 5,325 · **Forks**: 605 · **Open issues**: 184 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 185 · **Open PRs**: 2 · **Closed issues**: 171 · **Open issues**: 13 · **Commits**: 285
+- **Releases**: 33 · **Merged PRs**: 186 · **Open PRs**: 1 · **Closed issues**: 172 · **Open issues**: 12 · **Commits**: 286
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 6 | 71 | 2 | 61 | 12 | 78 |
-| last60d | 2026-08-15 | 11 | 91 | 2 | 80 | 12 | 86 |
-| 90d | 2026-07-16 | 20 | 145 | 2 | 125 | 12 | 146 |
-| last180d | 2026-04-17 | 26 | 162 | 2 | 151 | 13 | 186 |
-| 360d | 2025-10-19 | 33 | 185 | 2 | 171 | 13 | 279 |
-| last720d | 2024-10-24 | 33 | 185 | 2 | 171 | 13 | 285 |
+| 30d | 2026-09-15 | 6 | 72 | 1 | 62 | 11 | 79 |
+| last60d | 2026-08-16 | 11 | 92 | 1 | 81 | 11 | 87 |
+| 90d | 2026-07-17 | 20 | 146 | 1 | 126 | 11 | 147 |
+| last180d | 2026-04-18 | 25 | 163 | 1 | 149 | 12 | 187 |
+| 360d | 2025-10-20 | 33 | 186 | 1 | 172 | 12 | 280 |
+| last720d | 2024-10-25 | 33 | 186 | 1 | 172 | 12 | 286 |
 
 ## Release assets
 
@@ -68,4 +68,4 @@ Install metadata for obsidian-mind lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:57:01Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:41:01Z._
