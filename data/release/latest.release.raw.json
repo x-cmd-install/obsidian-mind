@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4890222,
       "digest": "sha256:3d6d67c18f8b0f87d39dfba20c951ba0a72d0663ce186141ff3f570cfbc1bc38",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-12T16:19:29Z",
       "updated_at": "2026-10-12T16:19:29Z",
       "browser_download_url": "https://github.com/breferrari/obsidian-mind/releases/download/v10.0.0/obsidian-mind-v10.0.0.zip"
