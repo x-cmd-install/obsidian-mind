@@ -36,7 +36,7 @@ Total: **30,838** lines of code across **254** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,516 · **Forks**: 611 · **Open issues**: 189 · **Contributors**: 14
+- **Stars**: 5,524 · **Forks**: 610 · **Open issues**: 189 · **Contributors**: 14
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **30,838** lines of code across **254** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 35 | 0 | 32 | 11 | 1 |
-| last60d | 2026-09-10 | 6 | 73 | 0 | 63 | 14 | 80 |
-| 90d | 2026-08-11 | 11 | 99 | 0 | 85 | 14 | 111 |
-| last180d | 2026-05-13 | 23 | 155 | 0 | 142 | 15 | 176 |
-| 360d | 2025-11-14 | 33 | 187 | 0 | 173 | 16 | 281 |
-| last720d | 2024-11-19 | 33 | 187 | 0 | 173 | 16 | 287 |
+| 30d | 2026-10-11 | 1 | 35 | 0 | 29 | 10 | 1 |
+| last60d | 2026-09-11 | 6 | 73 | 0 | 63 | 14 | 80 |
+| 90d | 2026-08-12 | 11 | 99 | 0 | 85 | 14 | 111 |
+| last180d | 2026-05-14 | 23 | 155 | 0 | 142 | 15 | 176 |
+| 360d | 2025-11-15 | 33 | 187 | 0 | 173 | 16 | 281 |
+| last720d | 2024-11-20 | 33 | 187 | 0 | 173 | 16 | 287 |
 
 ## Release assets
 
@@ -68,4 +68,4 @@ Install metadata for obsidian-mind lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:44:22Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:38:28Z._
